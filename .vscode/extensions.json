@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "golang.go",
+    "eamodio.gitlens",
+    "gruntfuggly.todo-tree",
+    "visualstudioexptteam.vscodeintellicode",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "quicktype.quicktype",
+    "ms-vsliveshare.vsliveshare-pack",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "wmaurer.change-case",
+    "editorconfig.editorconfig"
+  ]
+}
